@@ -1,4 +1,5 @@
-# React + TypeScript + Vite
+![image](https://github.com/shabbirflow/Dashboard-Mockup/assets/115451412/b790ab7e-d4f6-41ca-bdf8-5656888de299)# React + TypeScript + Vite
+Live site: https://dashboard-mockup-shabbir.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
